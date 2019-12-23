@@ -2,7 +2,7 @@ class Beta extends Plugin {
   constructor(server) {
     super(server, {
       name: 'beta',
-      author: 'zane',
+      author: 'Furious',
       commands: [
         {
           name: 'beta',
