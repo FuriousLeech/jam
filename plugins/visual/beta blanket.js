@@ -2,11 +2,11 @@ class blanket extends Plugin {
   constructor(server) {
     super(server, {
       name: 'blanket',
-      author: 'zane',
+      author: 'furious',
       commands: [
         {
           name: 'blanket',
-          description: 'blanket beta',
+          description: 'Gives you beta blanket',
           execute: ({ client }) => this.blanketCommand(client),
         },
       ],
