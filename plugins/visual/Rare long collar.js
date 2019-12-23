@@ -2,11 +2,11 @@ class long extends Plugin {
   constructor(server) {
     super(server, {
       name: 'long',
-      author: 'zane',
+      author: 'Furious',
       commands: [
         {
           name: 'long',
-          description: 'long item',
+          description: 'This gives you Rare Long Spiked Collar',
           execute: ({ client }) => this.longCommand(client),
         },
       ],
