@@ -2,11 +2,11 @@ class headdress extends Plugin {
   constructor(server) {
     super(server, {
       name: 'headdress',
-      author: 'zane',
+      author: 'Furious',
       commands: [
         {
           name: 'headdress',
-          description: 'headdress item',
+          description: 'This gives you LPHD',
           execute: ({ client }) => this.headdressCommand(client),
         },
       ],
