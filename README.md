@@ -19,10 +19,10 @@ Jam is a man-in-the-middle proxy server that allows you to easily interact with 
 - Plugin support
 - Chat commands
 
-Brought you by **Team Slick**! Follow us on Instagram to keep up to date with updates and releases. 
+Brought you by **anonymous**! Follow us on Instagram to keep up to date with updates and releases. 
 
-- [Zane](https://www.instagram.com/zane.slick)
-- [Xyo](https://www.instagram.com/xyo.slick)
+- [](https://www.instagram.com/)
+- [](https://www.instagram.com/)
 
 ## Install
 
