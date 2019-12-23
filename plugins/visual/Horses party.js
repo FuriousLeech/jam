@@ -2,11 +2,11 @@ class horse extends Plugin {
   constructor(server) {
     super(server, {
       name: 'horse',
-      author: 'zane',
+      author: 'Furious',
       commands: [
         {
           name: 'horse',
-          description: 'horse party',
+          description: 'This brings you to the horses only party.',
           execute: ({ client }) => this.horseCommand(client),
         },
       ],
