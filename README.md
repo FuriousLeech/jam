@@ -31,7 +31,7 @@ Brought you by **anonymous**! Follow us on Instagram to keep up to date with upd
 1. Clone the repository to your computer
 
 ```bash
-git clone https://github.com/zaneslick/jam.git/
+git clone https://github.com/FuriousLeech/jam.git/
 ```
 
 2. Change directory into the new `jam` directory
