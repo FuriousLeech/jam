@@ -2,7 +2,7 @@ class short extends Plugin {
   constructor(server) {
     super(server, {
       name: 'short',
-      author: 'zane',
+      author: 'Furious',
       commands: [
         {
           name: 'short',
