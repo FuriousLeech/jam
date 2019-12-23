@@ -1,0 +1,17 @@
+{
+  "web": {
+    "port": 80
+  },
+  "jam": {
+    "name": "Jam",
+    "port": 443,
+    "debug": false,
+    "remote": {
+      "host": "54.186.69.107",
+      "port": 443
+    }
+  },
+  "settings": {
+    "prefix": "!"
+  }
+}
